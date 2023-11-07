@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! I'm Ava, and I'm a roboticist passionate about solving complex robotics problems to improve safety and quality of life on both individual and macro scales. I'm currently pursuing my MS in robotics at Northwestern University (MSR 22-23), and I received a BSE in mechanical engineering from UConn in 2022. 
+
+I have project and industry experience using languages including Python and C++, and I am proficient in using both with ROS/ROS 2. I'm also well-versed in using systems and software including Linux, Git, and Docker as well as working in agile environments.
+
+Some of my notable past projects include programming a 7-DOF Franka arm to play air hockey, implementing hand gesture recognition and motion communication with the Unitree Go1 quadruped, and developing an extended Kalman filter SLAM pipeline from scratch on the TurtleBot3. 
+
+Currently I am working on my MS capstone project, in which I am implementing grasping planners on a Kinova Jaco arm to establish shared autonomy using MoveIt deep grasps. I am collaborating with Northwestern's Argallab, which focuses on assistive and rehabilitation robotics. The aim of my work is to help facilitate activities of daily living (ADLs).
+
+I’m actively looking for full-time opportunities in robotics starting in early 2024, and I'm excited about a range of robotics software applications including autonomy, manipulation, navigation, machine learning, vision, and more. 
+
+Check out some of my work on my portfolio at https://avazahedi.github.io !
